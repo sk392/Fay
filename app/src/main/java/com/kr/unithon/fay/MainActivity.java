@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onResume() {
         super.onResume();
-        // 네네네
+        // 네네네aaa
     }
 }
